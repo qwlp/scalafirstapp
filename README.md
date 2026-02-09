@@ -1,8 +1,4 @@
-## sbt project compiled with Scala 3
+= ScalaApp
 
-### Usage
-
-This is a normal sbt project. You can compile code with `sbt compile`, run it with `sbt run`, and `sbt console` will start a Scala 3 REPL.
-
-For more information on the sbt-dotty plugin, see the
-[scala3-example-project](https://github.com/scala/scala3-example-project/blob/main/README.md).
+This is my first time messing around with scala, so bear with me here, I don't really
+know what I am doing mostly so yeah. This is a ScalaFX app, so yeah nice man.
